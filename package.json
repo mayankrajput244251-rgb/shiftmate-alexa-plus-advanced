@@ -1,0 +1,15 @@
+{
+  "name": "shiftmate-alexa-plus",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Evidence-first shop-floor copilot with a self-hosted MCP Streamable HTTP server",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node test/server.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
