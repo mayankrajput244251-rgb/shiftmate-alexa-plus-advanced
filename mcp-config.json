@@ -1,0 +1,8 @@
+{
+  "server": "shiftmate-plant-copilot",
+  "transport": "streamable-http",
+  "url": "http://127.0.0.1:4318/mcp",
+  "protocolVersion": "2025-11-25",
+  "startCommand": "npm start",
+  "notes": "Local demo server. Bind to loopback only; all readings and actions are simulated."
+}
